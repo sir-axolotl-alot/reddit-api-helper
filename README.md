@@ -1,4 +1,4 @@
-# data-api-helper-scripts
+# reddit-api-helper
 
 ## usage
 
