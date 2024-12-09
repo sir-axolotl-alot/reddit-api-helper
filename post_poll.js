@@ -55,8 +55,8 @@ async function create_poll(subreddit, title, text, options)
 }
 
 // Define the poll parameters
-SUBREDDIT_NAME="r/axolotl_playground"
-POLL_TITLE="Another Poll from API."
+SUBREDDIT_NAME="r/my_test_subreddit"
+POLL_TITLE="Poll from API."
 POLL_OPTIONS=["Cats", "Dogs", "Axolotls"]
 POLL_TEXT="What is your favourite pet?"
 

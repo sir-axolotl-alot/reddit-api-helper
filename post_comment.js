@@ -42,7 +42,7 @@ async function post_comment(parent, text)
     return json
 }
 
-const PARENT_COMMENT_ID = 't1_lu6tjf9'
+const PARENT_COMMENT_ID = 't1_<ID>'
 const COMMENT_TEXT = 'Hello from API'
 
 post_comment(PARENT_COMMENT_ID, COMMENT_TEXT)
